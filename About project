@@ -1,0 +1,5 @@
+Each author has his own personal style of writing. 
+And some set of words is found most often in each work of this author. 
+The comparison of such sets of words is used as one of the methods of detecting plagiarism. 
+So, I found out what interesting words are most often found in the works of Joan Rowling. 
+During my work I have used libraries to work with pdf-files from collections, algorithms for decoding and frequency counting.
